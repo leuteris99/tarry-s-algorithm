@@ -1,0 +1,343 @@
+Network: Five Node Example, TotalFrames: 12
+Network: Six Node Example, TotalFrames: 16
+Network: Seven Node Example, TotalFrames: 22
+Network: Chain, TotalNodes: 3, TotalFrames: 4
+Network: Chain, TotalNodes: 4, TotalFrames: 6
+Network: Chain, TotalNodes: 5, TotalFrames: 8
+Network: Chain, TotalNodes: 6, TotalFrames: 10
+Network: Chain, TotalNodes: 7, TotalFrames: 12
+Network: Chain, TotalNodes: 8, TotalFrames: 14
+Network: Chain, TotalNodes: 9, TotalFrames: 16
+Network: Chain, TotalNodes: 10, TotalFrames: 18
+Network: Chain, TotalNodes: 11, TotalFrames: 20
+Network: Chain, TotalNodes: 12, TotalFrames: 22
+Network: Chain, TotalNodes: 13, TotalFrames: 24
+Network: Chain, TotalNodes: 14, TotalFrames: 26
+Network: Chain, TotalNodes: 15, TotalFrames: 28
+Network: Chain, TotalNodes: 16, TotalFrames: 30
+Network: Chain, TotalNodes: 17, TotalFrames: 32
+Network: Chain, TotalNodes: 18, TotalFrames: 34
+Network: Chain, TotalNodes: 19, TotalFrames: 36
+Network: Chain, TotalNodes: 20, TotalFrames: 38
+Network: Chain, TotalNodes: 21, TotalFrames: 40
+Network: Chain, TotalNodes: 22, TotalFrames: 42
+Network: Chain, TotalNodes: 23, TotalFrames: 44
+Network: Chain, TotalNodes: 24, TotalFrames: 46
+Network: Chain, TotalNodes: 25, TotalFrames: 48
+Network: Chain, TotalNodes: 26, TotalFrames: 50
+Network: Chain, TotalNodes: 27, TotalFrames: 52
+Network: Chain, TotalNodes: 28, TotalFrames: 54
+Network: Chain, TotalNodes: 29, TotalFrames: 56
+Network: Chain, TotalNodes: 30, TotalFrames: 58
+Network: Chain, TotalNodes: 31, TotalFrames: 60
+Network: Chain, TotalNodes: 32, TotalFrames: 62
+Network: Chain, TotalNodes: 33, TotalFrames: 64
+Network: Chain, TotalNodes: 34, TotalFrames: 66
+Network: Chain, TotalNodes: 35, TotalFrames: 68
+Network: Chain, TotalNodes: 36, TotalFrames: 70
+Network: Chain, TotalNodes: 37, TotalFrames: 72
+Network: Chain, TotalNodes: 38, TotalFrames: 74
+Network: Chain, TotalNodes: 39, TotalFrames: 76
+Network: Chain, TotalNodes: 40, TotalFrames: 78
+Network: Chain, TotalNodes: 41, TotalFrames: 80
+Network: Chain, TotalNodes: 42, TotalFrames: 82
+Network: Chain, TotalNodes: 43, TotalFrames: 84
+Network: Chain, TotalNodes: 44, TotalFrames: 86
+Network: Chain, TotalNodes: 45, TotalFrames: 88
+Network: Chain, TotalNodes: 46, TotalFrames: 90
+Network: Chain, TotalNodes: 47, TotalFrames: 92
+Network: Chain, TotalNodes: 48, TotalFrames: 94
+Network: Chain, TotalNodes: 49, TotalFrames: 96
+Network: Chain, TotalNodes: 50, TotalFrames: 98
+Network: Chain, TotalNodes: 51, TotalFrames: 100
+Network: Chain, TotalNodes: 52, TotalFrames: 102
+Network: Chain, TotalNodes: 53, TotalFrames: 104
+Network: Chain, TotalNodes: 54, TotalFrames: 106
+Network: Chain, TotalNodes: 55, TotalFrames: 108
+Network: Chain, TotalNodes: 56, TotalFrames: 110
+Network: Chain, TotalNodes: 57, TotalFrames: 112
+Network: Chain, TotalNodes: 58, TotalFrames: 114
+Network: Chain, TotalNodes: 59, TotalFrames: 116
+Network: Chain, TotalNodes: 60, TotalFrames: 118
+Network: Chain, TotalNodes: 61, TotalFrames: 120
+Network: Chain, TotalNodes: 62, TotalFrames: 122
+Network: Chain, TotalNodes: 63, TotalFrames: 124
+Network: Chain, TotalNodes: 64, TotalFrames: 126
+Network: Chain, TotalNodes: 65, TotalFrames: 128
+Network: Chain, TotalNodes: 66, TotalFrames: 130
+Network: Chain, TotalNodes: 67, TotalFrames: 132
+Network: Chain, TotalNodes: 68, TotalFrames: 134
+Network: Chain, TotalNodes: 69, TotalFrames: 136
+Network: Chain, TotalNodes: 70, TotalFrames: 138
+Network: Chain, TotalNodes: 71, TotalFrames: 140
+Network: Chain, TotalNodes: 72, TotalFrames: 142
+Network: Chain, TotalNodes: 73, TotalFrames: 144
+Network: Chain, TotalNodes: 74, TotalFrames: 146
+Network: Chain, TotalNodes: 75, TotalFrames: 148
+Network: Chain, TotalNodes: 76, TotalFrames: 150
+Network: Chain, TotalNodes: 77, TotalFrames: 152
+Network: Chain, TotalNodes: 78, TotalFrames: 154
+Network: Chain, TotalNodes: 79, TotalFrames: 156
+Network: Chain, TotalNodes: 80, TotalFrames: 158
+Network: Chain, TotalNodes: 81, TotalFrames: 160
+Network: Chain, TotalNodes: 82, TotalFrames: 162
+Network: Chain, TotalNodes: 83, TotalFrames: 164
+Network: Chain, TotalNodes: 84, TotalFrames: 166
+Network: Chain, TotalNodes: 85, TotalFrames: 168
+Network: Chain, TotalNodes: 86, TotalFrames: 170
+Network: Chain, TotalNodes: 87, TotalFrames: 172
+Network: Chain, TotalNodes: 88, TotalFrames: 174
+Network: Chain, TotalNodes: 89, TotalFrames: 176
+Network: Chain, TotalNodes: 90, TotalFrames: 178
+Network: Chain, TotalNodes: 91, TotalFrames: 180
+Network: Chain, TotalNodes: 92, TotalFrames: 182
+Network: Chain, TotalNodes: 93, TotalFrames: 184
+Network: Chain, TotalNodes: 94, TotalFrames: 186
+Network: Chain, TotalNodes: 95, TotalFrames: 188
+Network: Chain, TotalNodes: 96, TotalFrames: 190
+Network: Chain, TotalNodes: 97, TotalFrames: 192
+Network: Chain, TotalNodes: 98, TotalFrames: 194
+Network: Chain, TotalNodes: 99, TotalFrames: 196
+Network: Chain, TotalNodes: 100, TotalFrames: 198
+Network: Circle, TotalNodes: 3, TotalFrames: 6
+Network: Circle, TotalNodes: 4, TotalFrames: 8
+Network: Circle, TotalNodes: 5, TotalFrames: 10
+Network: Circle, TotalNodes: 6, TotalFrames: 12
+Network: Circle, TotalNodes: 7, TotalFrames: 14
+Network: Circle, TotalNodes: 8, TotalFrames: 16
+Network: Circle, TotalNodes: 9, TotalFrames: 18
+Network: Circle, TotalNodes: 10, TotalFrames: 20
+Network: Circle, TotalNodes: 11, TotalFrames: 22
+Network: Circle, TotalNodes: 12, TotalFrames: 24
+Network: Circle, TotalNodes: 13, TotalFrames: 26
+Network: Circle, TotalNodes: 14, TotalFrames: 28
+Network: Circle, TotalNodes: 15, TotalFrames: 30
+Network: Circle, TotalNodes: 16, TotalFrames: 32
+Network: Circle, TotalNodes: 17, TotalFrames: 34
+Network: Circle, TotalNodes: 18, TotalFrames: 36
+Network: Circle, TotalNodes: 19, TotalFrames: 38
+Network: Circle, TotalNodes: 20, TotalFrames: 40
+Network: Circle, TotalNodes: 21, TotalFrames: 42
+Network: Circle, TotalNodes: 22, TotalFrames: 44
+Network: Circle, TotalNodes: 23, TotalFrames: 46
+Network: Circle, TotalNodes: 24, TotalFrames: 48
+Network: Circle, TotalNodes: 25, TotalFrames: 50
+Network: Circle, TotalNodes: 26, TotalFrames: 52
+Network: Circle, TotalNodes: 27, TotalFrames: 54
+Network: Circle, TotalNodes: 28, TotalFrames: 56
+Network: Circle, TotalNodes: 29, TotalFrames: 58
+Network: Circle, TotalNodes: 30, TotalFrames: 60
+Network: Circle, TotalNodes: 31, TotalFrames: 62
+Network: Circle, TotalNodes: 32, TotalFrames: 64
+Network: Circle, TotalNodes: 33, TotalFrames: 66
+Network: Circle, TotalNodes: 34, TotalFrames: 68
+Network: Circle, TotalNodes: 35, TotalFrames: 70
+Network: Circle, TotalNodes: 36, TotalFrames: 72
+Network: Circle, TotalNodes: 37, TotalFrames: 74
+Network: Circle, TotalNodes: 38, TotalFrames: 76
+Network: Circle, TotalNodes: 39, TotalFrames: 78
+Network: Circle, TotalNodes: 40, TotalFrames: 80
+Network: Circle, TotalNodes: 41, TotalFrames: 82
+Network: Circle, TotalNodes: 42, TotalFrames: 84
+Network: Circle, TotalNodes: 43, TotalFrames: 86
+Network: Circle, TotalNodes: 44, TotalFrames: 88
+Network: Circle, TotalNodes: 45, TotalFrames: 90
+Network: Circle, TotalNodes: 46, TotalFrames: 92
+Network: Circle, TotalNodes: 47, TotalFrames: 94
+Network: Circle, TotalNodes: 48, TotalFrames: 96
+Network: Circle, TotalNodes: 49, TotalFrames: 98
+Network: Circle, TotalNodes: 50, TotalFrames: 100
+Network: Circle, TotalNodes: 51, TotalFrames: 102
+Network: Circle, TotalNodes: 52, TotalFrames: 104
+Network: Circle, TotalNodes: 53, TotalFrames: 106
+Network: Circle, TotalNodes: 54, TotalFrames: 108
+Network: Circle, TotalNodes: 55, TotalFrames: 110
+Network: Circle, TotalNodes: 56, TotalFrames: 112
+Network: Circle, TotalNodes: 57, TotalFrames: 114
+Network: Circle, TotalNodes: 58, TotalFrames: 116
+Network: Circle, TotalNodes: 59, TotalFrames: 118
+Network: Circle, TotalNodes: 60, TotalFrames: 120
+Network: Circle, TotalNodes: 61, TotalFrames: 122
+Network: Circle, TotalNodes: 62, TotalFrames: 124
+Network: Circle, TotalNodes: 63, TotalFrames: 126
+Network: Circle, TotalNodes: 64, TotalFrames: 128
+Network: Circle, TotalNodes: 65, TotalFrames: 130
+Network: Circle, TotalNodes: 66, TotalFrames: 132
+Network: Circle, TotalNodes: 67, TotalFrames: 134
+Network: Circle, TotalNodes: 68, TotalFrames: 136
+Network: Circle, TotalNodes: 69, TotalFrames: 138
+Network: Circle, TotalNodes: 70, TotalFrames: 140
+Network: Circle, TotalNodes: 71, TotalFrames: 142
+Network: Circle, TotalNodes: 72, TotalFrames: 144
+Network: Circle, TotalNodes: 73, TotalFrames: 146
+Network: Circle, TotalNodes: 74, TotalFrames: 148
+Network: Circle, TotalNodes: 75, TotalFrames: 150
+Network: Circle, TotalNodes: 76, TotalFrames: 152
+Network: Circle, TotalNodes: 77, TotalFrames: 154
+Network: Circle, TotalNodes: 78, TotalFrames: 156
+Network: Circle, TotalNodes: 79, TotalFrames: 158
+Network: Circle, TotalNodes: 80, TotalFrames: 160
+Network: Circle, TotalNodes: 81, TotalFrames: 162
+Network: Circle, TotalNodes: 82, TotalFrames: 164
+Network: Circle, TotalNodes: 83, TotalFrames: 166
+Network: Circle, TotalNodes: 84, TotalFrames: 168
+Network: Circle, TotalNodes: 85, TotalFrames: 170
+Network: Circle, TotalNodes: 86, TotalFrames: 172
+Network: Circle, TotalNodes: 87, TotalFrames: 174
+Network: Circle, TotalNodes: 88, TotalFrames: 176
+Network: Circle, TotalNodes: 89, TotalFrames: 178
+Network: Circle, TotalNodes: 90, TotalFrames: 180
+Network: Circle, TotalNodes: 91, TotalFrames: 182
+Network: Circle, TotalNodes: 92, TotalFrames: 184
+Network: Circle, TotalNodes: 93, TotalFrames: 186
+Network: Circle, TotalNodes: 94, TotalFrames: 188
+Network: Circle, TotalNodes: 95, TotalFrames: 190
+Network: Circle, TotalNodes: 96, TotalFrames: 192
+Network: Circle, TotalNodes: 97, TotalFrames: 194
+Network: Circle, TotalNodes: 98, TotalFrames: 196
+Network: Circle, TotalNodes: 99, TotalFrames: 198
+Network: Circle, TotalNodes: 100, TotalFrames: 200
+Network: Binary Tree, Height: 1, TotalFrames: 4
+Network: Binary Tree, Height: 2, TotalFrames: 12
+Network: Binary Tree, Height: 3, TotalFrames: 28
+Network: Binary Tree, Height: 4, TotalFrames: 60
+Network: Binary Tree, Height: 5, TotalFrames: 124
+Network: Binary Tree, Height: 6, TotalFrames: 252
+Network: Random Graph, TotalNodes: 8, Connectedness: 0.100000, TotalFrames: 16
+Network: Random Graph, TotalNodes: 8, Connectedness: 0.200000, TotalFrames: 24
+Network: Random Graph, TotalNodes: 8, Connectedness: 0.300000, TotalFrames: 28
+Network: Random Graph, TotalNodes: 8, Connectedness: 0.400000, TotalFrames: 36
+Network: Random Graph, TotalNodes: 8, Connectedness: 0.500000, TotalFrames: 28
+Network: Random Graph, TotalNodes: 8, Connectedness: 0.600000, TotalFrames: 40
+Network: Random Graph, TotalNodes: 8, Connectedness: 0.700000, TotalFrames: 46
+Network: Random Graph, TotalNodes: 8, Connectedness: 0.800000, TotalFrames: 52
+Network: Random Graph, TotalNodes: 8, Connectedness: 0.900000, TotalFrames: 52
+Network: Random Graph, TotalNodes: 8, Connectedness: 1.000000, TotalFrames: 56
+Network: Random Graph, TotalNodes: 15, Connectedness: 0.100000, TotalFrames: 50
+Network: Random Graph, TotalNodes: 15, Connectedness: 0.200000, TotalFrames: 82
+Network: Random Graph, TotalNodes: 15, Connectedness: 0.300000, TotalFrames: 86
+Network: Random Graph, TotalNodes: 15, Connectedness: 0.400000, TotalFrames: 92
+Network: Random Graph, TotalNodes: 15, Connectedness: 0.500000, TotalFrames: 122
+Network: Random Graph, TotalNodes: 15, Connectedness: 0.600000, TotalFrames: 146
+Network: Random Graph, TotalNodes: 15, Connectedness: 0.700000, TotalFrames: 164
+Network: Random Graph, TotalNodes: 15, Connectedness: 0.800000, TotalFrames: 182
+Network: Random Graph, TotalNodes: 15, Connectedness: 0.900000, TotalFrames: 192
+Network: Random Graph, TotalNodes: 15, Connectedness: 1.000000, TotalFrames: 210
+Network: Random Graph, TotalNodes: 30, Connectedness: 0.100000, TotalFrames: 124
+Network: Random Graph, TotalNodes: 30, Connectedness: 0.200000, TotalFrames: 192
+Network: Random Graph, TotalNodes: 30, Connectedness: 0.300000, TotalFrames: 298
+Network: Random Graph, TotalNodes: 30, Connectedness: 0.400000, TotalFrames: 384
+Network: Random Graph, TotalNodes: 30, Connectedness: 0.500000, TotalFrames: 436
+Network: Random Graph, TotalNodes: 30, Connectedness: 0.600000, TotalFrames: 564
+Network: Random Graph, TotalNodes: 30, Connectedness: 0.700000, TotalFrames: 632
+Network: Random Graph, TotalNodes: 30, Connectedness: 0.800000, TotalFrames: 680
+Network: Random Graph, TotalNodes: 30, Connectedness: 0.900000, TotalFrames: 790
+Network: Random Graph, TotalNodes: 30, Connectedness: 1.000000, TotalFrames: 870
+Network: Random Graph, TotalNodes: 45, Connectedness: 0.100000, TotalFrames: 284
+Network: Random Graph, TotalNodes: 45, Connectedness: 0.200000, TotalFrames: 464
+Network: Random Graph, TotalNodes: 45, Connectedness: 0.300000, TotalFrames: 642
+Network: Random Graph, TotalNodes: 45, Connectedness: 0.400000, TotalFrames: 786
+Network: Random Graph, TotalNodes: 45, Connectedness: 0.500000, TotalFrames: 1030
+Network: Random Graph, TotalNodes: 45, Connectedness: 0.600000, TotalFrames: 1220
+Network: Random Graph, TotalNodes: 45, Connectedness: 0.700000, TotalFrames: 1422
+Network: Random Graph, TotalNodes: 45, Connectedness: 0.800000, TotalFrames: 1624
+Network: Random Graph, TotalNodes: 45, Connectedness: 0.900000, TotalFrames: 1776
+Network: Random Graph, TotalNodes: 45, Connectedness: 1.000000, TotalFrames: 1980
+Network: Full Graph, TotalNodes: 3, TotalFrames: 6
+Network: Full Graph, TotalNodes: 4, TotalFrames: 12
+Network: Full Graph, TotalNodes: 5, TotalFrames: 20
+Network: Full Graph, TotalNodes: 6, TotalFrames: 30
+Network: Full Graph, TotalNodes: 7, TotalFrames: 42
+Network: Full Graph, TotalNodes: 8, TotalFrames: 56
+Network: Full Graph, TotalNodes: 9, TotalFrames: 72
+Network: Full Graph, TotalNodes: 10, TotalFrames: 90
+Network: Full Graph, TotalNodes: 11, TotalFrames: 110
+Network: Full Graph, TotalNodes: 12, TotalFrames: 132
+Network: Full Graph, TotalNodes: 13, TotalFrames: 156
+Network: Full Graph, TotalNodes: 14, TotalFrames: 182
+Network: Full Graph, TotalNodes: 15, TotalFrames: 210
+Network: Full Graph, TotalNodes: 16, TotalFrames: 240
+Network: Full Graph, TotalNodes: 17, TotalFrames: 272
+Network: Full Graph, TotalNodes: 18, TotalFrames: 306
+Network: Full Graph, TotalNodes: 19, TotalFrames: 342
+Network: Full Graph, TotalNodes: 20, TotalFrames: 380
+Network: Full Graph, TotalNodes: 21, TotalFrames: 420
+Network: Full Graph, TotalNodes: 22, TotalFrames: 462
+Network: Full Graph, TotalNodes: 23, TotalFrames: 506
+Network: Full Graph, TotalNodes: 24, TotalFrames: 552
+Network: Full Graph, TotalNodes: 25, TotalFrames: 600
+Network: Full Graph, TotalNodes: 26, TotalFrames: 650
+Network: Full Graph, TotalNodes: 27, TotalFrames: 702
+Network: Full Graph, TotalNodes: 28, TotalFrames: 756
+Network: Full Graph, TotalNodes: 29, TotalFrames: 812
+Network: Full Graph, TotalNodes: 30, TotalFrames: 870
+Network: Full Graph, TotalNodes: 31, TotalFrames: 930
+Network: Full Graph, TotalNodes: 32, TotalFrames: 992
+Network: Full Graph, TotalNodes: 33, TotalFrames: 1056
+Network: Full Graph, TotalNodes: 34, TotalFrames: 1122
+Network: Full Graph, TotalNodes: 35, TotalFrames: 1190
+Network: Full Graph, TotalNodes: 36, TotalFrames: 1260
+Network: Full Graph, TotalNodes: 37, TotalFrames: 1332
+Network: Full Graph, TotalNodes: 38, TotalFrames: 1406
+Network: Full Graph, TotalNodes: 39, TotalFrames: 1482
+Network: Full Graph, TotalNodes: 40, TotalFrames: 1560
+Network: Full Graph, TotalNodes: 41, TotalFrames: 1640
+Network: Full Graph, TotalNodes: 42, TotalFrames: 1722
+Network: Full Graph, TotalNodes: 43, TotalFrames: 1806
+Network: Full Graph, TotalNodes: 44, TotalFrames: 1892
+Network: Full Graph, TotalNodes: 45, TotalFrames: 1980
+Network: Full Graph, TotalNodes: 46, TotalFrames: 2070
+Network: Full Graph, TotalNodes: 47, TotalFrames: 2162
+Network: Full Graph, TotalNodes: 48, TotalFrames: 2256
+Network: Full Graph, TotalNodes: 49, TotalFrames: 2352
+Network: Full Graph, TotalNodes: 50, TotalFrames: 2450
+Network: Full Graph, TotalNodes: 51, TotalFrames: 2550
+Network: Full Graph, TotalNodes: 52, TotalFrames: 2652
+Network: Full Graph, TotalNodes: 53, TotalFrames: 2756
+Network: Full Graph, TotalNodes: 54, TotalFrames: 2862
+Network: Full Graph, TotalNodes: 55, TotalFrames: 2970
+Network: Full Graph, TotalNodes: 56, TotalFrames: 3080
+Network: Full Graph, TotalNodes: 57, TotalFrames: 3192
+Network: Full Graph, TotalNodes: 58, TotalFrames: 3306
+Network: Full Graph, TotalNodes: 59, TotalFrames: 3422
+Network: Full Graph, TotalNodes: 60, TotalFrames: 3540
+Network: Full Graph, TotalNodes: 61, TotalFrames: 3660
+Network: Full Graph, TotalNodes: 62, TotalFrames: 3782
+Network: Full Graph, TotalNodes: 63, TotalFrames: 3906
+Network: Full Graph, TotalNodes: 64, TotalFrames: 4032
+Network: Full Graph, TotalNodes: 65, TotalFrames: 4160
+Network: Full Graph, TotalNodes: 66, TotalFrames: 4290
+Network: Full Graph, TotalNodes: 67, TotalFrames: 4422
+Network: Full Graph, TotalNodes: 68, TotalFrames: 4556
+Network: Full Graph, TotalNodes: 69, TotalFrames: 4692
+Network: Full Graph, TotalNodes: 70, TotalFrames: 4830
+Network: Full Graph, TotalNodes: 71, TotalFrames: 4970
+Network: Full Graph, TotalNodes: 72, TotalFrames: 5112
+Network: Full Graph, TotalNodes: 73, TotalFrames: 5256
+Network: Full Graph, TotalNodes: 74, TotalFrames: 5402
+Network: Full Graph, TotalNodes: 75, TotalFrames: 5550
+Network: Full Graph, TotalNodes: 76, TotalFrames: 5700
+Network: Full Graph, TotalNodes: 77, TotalFrames: 5852
+Network: Full Graph, TotalNodes: 78, TotalFrames: 6006
+Network: Full Graph, TotalNodes: 79, TotalFrames: 6162
+Network: Full Graph, TotalNodes: 80, TotalFrames: 6320
+Network: Full Graph, TotalNodes: 81, TotalFrames: 6480
+Network: Full Graph, TotalNodes: 82, TotalFrames: 6642
+Network: Full Graph, TotalNodes: 83, TotalFrames: 6806
+Network: Full Graph, TotalNodes: 84, TotalFrames: 6972
+Network: Full Graph, TotalNodes: 85, TotalFrames: 7140
+Network: Full Graph, TotalNodes: 86, TotalFrames: 7310
+Network: Full Graph, TotalNodes: 87, TotalFrames: 7482
+Network: Full Graph, TotalNodes: 88, TotalFrames: 7656
+Network: Full Graph, TotalNodes: 89, TotalFrames: 7832
+Network: Full Graph, TotalNodes: 90, TotalFrames: 8010
+Network: Full Graph, TotalNodes: 91, TotalFrames: 8190
+Network: Full Graph, TotalNodes: 92, TotalFrames: 8372
+Network: Full Graph, TotalNodes: 93, TotalFrames: 8556
+Network: Full Graph, TotalNodes: 94, TotalFrames: 8742
+Network: Full Graph, TotalNodes: 95, TotalFrames: 8930
+Network: Full Graph, TotalNodes: 96, TotalFrames: 9120
+Network: Full Graph, TotalNodes: 97, TotalFrames: 9312
+Network: Full Graph, TotalNodes: 98, TotalFrames: 9506
+Network: Full Graph, TotalNodes: 99, TotalFrames: 9702
+Network: Full Graph, TotalNodes: 100, TotalFrames: 9900
